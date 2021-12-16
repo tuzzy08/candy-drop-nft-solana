@@ -1,0 +1,19 @@
+{
+	"name": "pikachu",
+	"symbol": "",
+	"image": "1.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "1.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "428WJx22ZLutCmKR9ELg55urXd6jY4c9v5ZpkBVt7w4P",
+				"share": 100
+			}
+		]
+	}
+}
